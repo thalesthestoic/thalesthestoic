@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thalesthestoic
-- 👀 I’m interested in Solana and Financial Products.
-- 🌱 I’m currently learning Anchor on Solana.
+- 👀 I’m interested in Avalanche and Financial Products.
+- 🌱 I’m currently building @ExposureFi.
 - 💞️ I’m looking to collaborate on Exposure!
 - 📫 How to reach me thales@anaxii.com 
 
